@@ -1,0 +1,21 @@
+Concept Maps 
+ - Graphical Tools
+ - Representing concept-propositional or meaning frameworks
+
+Concept Map Parts
+ - Concepts - Circles/Boxes
+ - Relationships - Connecting line
+ - Linking phrases/words
+ - Propositions 
+   - Statements about an object or event
+   - Contains two or more concepts connected by linking words/phrases to form a meaningful statement.
+ -Focus Question - Specifies the topic. Needs to have a "what,who,how,where,why,etc" to make the concept map specific.
+
+Building a Concept Map(app.diagrams.net):
+-Determine Focus Question
+-Identify Key Concepts
+-Rank order Concepts
+-Connect Concepts
+-Modify Structure
+-Add Examples
+

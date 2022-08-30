@@ -1,0 +1,2 @@
+Tasking 
+ - Splitting complex problems to simple tasks(can be done in 15mins)
