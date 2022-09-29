@@ -1,0 +1,5 @@
+Coupling
+-Class A extends Class B
+
+
+Observer Pattern eliminates too much coupling

@@ -1,0 +1,20 @@
+Code review
+ - QA Activity
+ - Have at least one reviewer who is not the author
+
+	Procedures:
+		- Check file by file
+		- Check commit by commit
+ 
+	Benefits:
+		-Share context with teammates
+		-Learn from others
+		-Find potential Issues
+
+	Rules:
+		1. Learning by Challenge
+		2. Learning by Sharing
+		3. Focus on the code and commits
+		4. Ask more questions
+		5. Set time box per repo
+		6. Summary and Record the  Good Points and Questions

@@ -1,0 +1,15 @@
+What is MVP
+-create a concept for MVP
+-Testing "a" Product - change "a"
+-Create a relationship between User and Testing to create a cycle
+-Simplify by connecting Users and Product Teams
+
+When do we need MVP
+-
+
+Purpose of MVP
+-
+
+How to use MVP?
+-Connect MVP and Product Teams
+-Maybe change "Product Teams" concepts

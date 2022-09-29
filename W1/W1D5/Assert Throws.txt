@@ -1,0 +1,17 @@
+Exception e = assertThrows(*user_defined_exception*.class, () -> parkingLot.fetch(parkingTicket));
+^^^^^^^
+this is an Executable object
+
+
+
+
+Creatubn an exception:
+
+-class exception extends RunTimeException
+
+@Override
+public String getMessage(){}
+
+
+
+***RuntimeException does not mald when you dont wrap it in trycatch

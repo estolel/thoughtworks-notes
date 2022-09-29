@@ -1,0 +1,16 @@
+CODE REVIEW
+-Allow other developers to look at code smells and potentially FATAL mistakes. 
+Example: DTO->DB was empty
+
+STANDUP MEETINGS
+-Teams discuss the progress of stories. This allows everyone in the team to be in the loop. Some announcements are also made here such as future plans
+
+PAIRED PROGRAMMING
+-Developers work together on stories so that they can help each other when one gets blocked. Example: tilted
+
+IPM
+-The BA and QA discuss stories that are to be worked on during the iteration. The devs discuss how much effort they will pour into a story
+
+Team Retro
+-Teams allow everyone to speak their mind and share their troubles so that the whole team can provide a solution. 
+Example: assignment solutions

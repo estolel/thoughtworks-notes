@@ -1,0 +1,41 @@
+@RestControllerAdvice
+public class GlobalControllerAdvice{
+
+
+	@ResponseStatus(HttpStatus.NOT_FOUND)
+@ExceptionHandler({NoCompanyFoundException.class, NoEmployeeException.class})
+public ErrorResponse handleNotFoundException(Exception exception){
+	return new ErrorResponse(HttpStatus.NOT_FOUND.value(), exception.getMessage());
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+-----------------
+
+
+
+
+public class ErrorResponse {
+	int code;
+	String message;
+
+}
+
+-----------------
+@Test
+void test(){
+
+	client.perform(MockMvcRequestBuilders.get("path")
+			.andExpect(MockMvcResultMatchers.status().isOk());
+
+
+}

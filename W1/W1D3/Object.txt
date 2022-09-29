@@ -1,0 +1,6 @@
+Object
+	-Property - Attribute or State
+	-Method - Function
+
+Encapsulation
+	-Private/Protected

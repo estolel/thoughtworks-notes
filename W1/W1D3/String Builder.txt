@@ -1,0 +1,8 @@
+StringBuilder stringBuilder = new StringBuilder();
+stringBuilder.append(/*some String*/);
+stringBuilder.toString();
+
+
+------
+
+MessageFormat.format("{0}: speed up {1} km/h", name, speed);

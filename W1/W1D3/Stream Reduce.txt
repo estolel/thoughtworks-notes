@@ -1,0 +1,4 @@
+numbers.stream().
+	reduce(accumulator, currentItem) -> {
+	return Integer.sum(accumulator, currentItem);
+	}

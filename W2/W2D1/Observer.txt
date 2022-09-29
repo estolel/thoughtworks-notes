@@ -1,0 +1,2 @@
+Observer Pattern
+	- used when there is a one-to-many relationship between objects.

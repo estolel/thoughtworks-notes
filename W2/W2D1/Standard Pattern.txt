@@ -1,0 +1,13 @@
+ParkingBoy
+	-ParkingLotFinder
+
+
+SequentialFinder implements ParkingLotFinder
+
+MaxAvailableCapacityFinder implements ParkingLotFinder
+
+ParkingLotFinder{
+
+Optional<ParkingLot> findFirstSuitable(List<ParkingLot> parkingLots){
+}
+

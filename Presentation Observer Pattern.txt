@@ -1,0 +1,6 @@
+Intro
+	- almost all defs, usages, etc
+Code Implementation
+	- All patterns
+Summary
+	- Thoughtworks type

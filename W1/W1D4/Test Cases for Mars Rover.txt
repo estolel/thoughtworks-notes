@@ -1,0 +1,49 @@
+----------------------------------------
+Test 1
+----------------------------------------
+Given
+-locationX: 25
+-locationY: -21
+-direction: N
+-command:M
+
+When
+-executeCommand()
+
+Then
+-locationX: 25
+-locationY: -20
+-direction: N
+----------------------------------------
+Test 2
+----------------------------------------
+Given
+-locationX: -22
+-locationY: 31
+-direction: S
+-command:L
+
+When
+-executeCommand()
+
+Then
+-locationX: -22
+-locationY: 31
+-direction: W
+----------------------------------------
+Test 3
+----------------------------------------
+Given
+-locationX: -22
+-locationY: 31
+-direction: w
+-command:R
+
+When
+-executeCommand()
+
+Then
+-locationX: -22
+-locationY: 31
+-direction: S
+----------------------------------------

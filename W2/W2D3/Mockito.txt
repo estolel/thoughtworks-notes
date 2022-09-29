@@ -1,0 +1,8 @@
+Spy
+	-Like mock but, it will call the actual implementation
+Mock
+	-
+Dummy
+	-objects are passed around but never actually used. Usually to used to fill params
+Fake:
+	-have working implmentations but have shortcuts

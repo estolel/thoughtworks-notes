@@ -1,0 +1,5 @@
+Test
+	-Should have:
+		-Given
+		-When
+		-Then

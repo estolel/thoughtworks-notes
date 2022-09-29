@@ -1,0 +1,6 @@
+Commit messages:
+-feat: new feature
+-bug: bug fix
+-test: a new test
+-refactor: refactor code
+-fix: fix wrong logic

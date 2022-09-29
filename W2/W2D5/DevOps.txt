@@ -1,0 +1,8 @@
+Software Development Life Cycle
+	-There is a gap between Customers/BAs, Dev Teams but bridged by Agile. However Agile has a gap between Ops and the Developers
+	-This gap is fixed by DevOps where the Development and Operations are bridged.
+
+
+Devops
+	- Must CONTINUOUSLY provide value to customers.
+	- Develop and Operate NOT Developers and Operations

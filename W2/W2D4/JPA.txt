@@ -1,0 +1,16 @@
+Java Persistence Api
+	- Standards-based solution for persistence.
+	- ORM
+	- Object Oriented Model
+
+
+Sorting:
+	-	Sort sort = something look up spring jpa Sort
+
+
+Pagination:
+	- .findAll(PageRequest pageable).toList();
+	-pageable = PageRequest.of(page, pageSize)
+
+	-Page pageObj = new PageIml(employeesList)
+	-when(findallWithJPA).thenReturn(pageObj)

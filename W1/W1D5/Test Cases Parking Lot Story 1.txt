@@ -1,0 +1,58 @@
+AC1:
+	Given:
+		-validTicket : Ticket
+		-customer : Person
+		-parkedCar : Vehicle
+
+	When:
+		-fetchCar()
+	Then:
+		-return parkedCar : Car;
+AC2:
+	Given:
+		-customer : Person
+		-currentar : Vehicle
+	When:
+		-parkCar()
+	Then:
+		-true : parkCar();
+		-ticket : new Ticket;
+AC3:
+	Test 1:
+		Given:
+			-customer : Person
+			-wrongTicket : Ticket
+			-parkedCar : Vehicle
+		When:
+			-fetchCar()
+		Then:
+			-null 
+	Test 2:
+		Given:
+			-customer : Person
+			-null : Ticket
+			-parkedCar : Vehicle
+		When:
+			-fetchCar()
+		Then:
+			-null
+AC4:
+	Given:
+		-customer : Person
+		-usedTicket : Ticket
+		-parkedCar : Vehicle
+	When:
+		-fetchCar()
+	Then:
+		-null
+AC5:
+	Given:
+		-customer : Person
+		-currentCar : Vehicle
+		-fullParkingSpace : List<Vehicle>
+	When:
+		-parkCar()
+	Then:
+		-false : parkCar();
+	
+	

@@ -1,0 +1,19 @@
+AC1:
+	Given:
+		Wrong Ticket
+	When:
+		Fetch
+	Then:
+		-Error message "Unrecognized Parking Ticket"
+		-No car should be fetched
+
+AC2:
+	Given:
+		Full Parking lot
+	When:
+		Park
+	Then:
+		-Error message "No available positon"
+		-No car should be parked
+
+			

@@ -1,0 +1,5 @@
+Priorities:
+	1. Pass the Test
+	2.1 Reveeal Intention
+	2.2 No Duplication
+	3. Fewest Elements

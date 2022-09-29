@@ -1,0 +1,38 @@
+Tasking process
+	- Splitting complex problems to simple tasks(can be done in 15mins)
+	- Make sure tasks are independent
+	- Make sure tasks are executable
+
+	--SimpleTask: Easy to read and understand
+	--Independent: Division of Labor and Independent testing
+	--Verifiable: Input & Output
+
+	1. Clarify
+	2. List Tasks
+	3. Define Input and Output
+	4. Draw Context Map
+
+Summary:
+	Requirement > Analyze/Clarify > Tasking > Context Map > Coding
+
+
+	Example: Find the "largest eveb bynber" in the set and check if it is greater than 10.
+	
+	1. Find all even numbers
+		1.1 Input: numbers:[]
+		1.2 Output: evenNumbers:[]
+	2. Find the largest number
+		2.1 numbers:[]
+		2.2 Output: number:int
+	3. If greater than 10
+		3.1 Input: number: int
+		3.2 Output: isGreaterThan10: boolean
+
+*can represent a process as a concept in Context Maps
+
+Context Map:
+ - Function Block[Box]
+ - Function Name [inside the Box]
+ - Inputs and Outputs[Arrows]
+ - IO Labels [On the Arrows]
+
